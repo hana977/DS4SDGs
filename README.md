@@ -1,4 +1,5 @@
 Data Distributions, Feature Importance, and Multicollinearity
+
 This repository contains two assignments that involve feature importance, multicollinearity, and data distributions using synthetic data. The tasks are based on the Titanic dataset and various data distribution techniques.
 
 Assignment 1: Feature Importance & Multicollinearity
